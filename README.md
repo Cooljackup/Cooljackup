@@ -7,6 +7,6 @@ ____
 
 ### Socials:
 
-![](https://img.shields.io/badge/Discord:-Cooljackup⧺1391-7289da)
+![](https://img.shields.io/badge/Discord:-Zethical⧺1391-7289da)
 ###
 [![](https://img.shields.io/badge/Twitter:-Cooljackup-blue)](https://twitter.com/Cooljackup)
